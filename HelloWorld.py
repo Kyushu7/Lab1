@@ -1,1 +1,1 @@
-print ("ET1234 - DevOps")
+print ("ET1234 - DevOps for AIot")
